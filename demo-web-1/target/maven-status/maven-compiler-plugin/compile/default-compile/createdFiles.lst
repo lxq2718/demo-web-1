@@ -1,0 +1,7 @@
+edu\tjut\User.class
+edu\tjut\StudentService.class
+edu\tjut\CheckServlet.class
+edu\tjut\DBStudentServlet.class
+edu\tjut\StudentServlet.class
+edu\tjut\JsonStudentServlet.class
+edu\tjut\Student.class

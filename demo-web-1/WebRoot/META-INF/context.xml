@@ -1,0 +1,15 @@
+<Context>
+   <Resource 
+       name="jdbc/school" 
+       auth="Container"
+       type="javax.sql.DataSource" 
+       factory="com.alibaba.druid.pool.DruidDataSourceFactory"
+       maxActive="100" 
+       maxIdle="30"
+       maxWait="10000"
+       username="root" 
+       password="314159"
+       driverClassName="com.mysql.jdbc.Driver" 
+       url="jdbc:mysql://localhost:3306/school" />
+
+</Context>
